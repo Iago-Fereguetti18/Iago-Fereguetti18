@@ -1,5 +1,5 @@
-<p align="center" width="200">
-### ᚹᛖᛚᚲᛟᛗᛖ ᛏᛟ ᛗᛁ ᚷᛁᛏ ᚺᚢᛒ
+<p align="center" width="10000">
+ᚹᛖᛚᚲᛟᛗᛖ ᛏᛟ ᛗᛁ ᚷᛁᛏ ᚺᚢᛒ
 </p>
 
 <p align="center">
