@@ -1,9 +1,9 @@
-<p align="center" width="10000">
-ᚹᛖᛚᚲᛟᛗᛖ ᛏᛟ ᛗᛁ ᚷᛁᛏ ᚺᚢᛒ
+<p align="center">
+  <span style="font-size: 9000000000000000000000000px;">ᚹᛖᛚᚲᛟᛗᛖ ᛏᛟ ᛗᛁ ᚷᛁᛏ ᚺᚢᛒ</span>
 </p>
 
 <p align="center">
-<img width="200" src="1983718_ac2bd.gif">
+<img width="100" src="1983718_ac2bd.gif">
 </p>
 <!--
 **Iago-Fereguetti18/Iago-Fereguetti18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
