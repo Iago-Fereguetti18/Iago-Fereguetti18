@@ -1,4 +1,6 @@
+<p align="center" width="200">
 ### ᚹᛖᛚᚲᛟᛗᛖ ᛏᛟ ᛗᛁ ᚷᛁᛏ ᚺᚢᛒ
+</p>
 
 <p align="center">
 <img width="200" src="1983718_ac2bd.gif">
