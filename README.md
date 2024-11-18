@@ -1,4 +1,4 @@
-<h2>Olá eu sou a Iago Fereguetti Ribeiro, estudante de Ciência da Computação.</h2>
+<h2>Olá eu sou Iago Fereguetti Ribeiro, estudante de Ciência da Computação.</h2>
 
 <div>
   <a href="https://github.com/Iago-Fereguetti18/">
