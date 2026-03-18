@@ -17,7 +17,7 @@
 
 - 🛠️ Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,vscode,maven,azure,postman,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,vscode,azure,figma)](https://skillicons.dev)
 
 - 🎲 Banco de Dados:
 
