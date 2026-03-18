@@ -5,7 +5,7 @@
 - 📚 Comprometido com o aprendizado contínuo e aprimoramento das minhas habilidades técnicas.
 - 📫 Contate-me no email: fereguettiiago@gmail.com.
 
-## 🧑‍💻 Tech Skills
+## 🧑‍💻 Habilidades e competências
 
 - 🖥️ Linguagens de Programação: 
 
