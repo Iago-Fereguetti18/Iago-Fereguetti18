@@ -1,9 +1,33 @@
-<h2>Olá eu sou Iago Fereguetti Ribeiro, estudante de Ciência da Computação.</h2>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim! 
 
-<div>
-  <a href="https://github.com/Iago-Fereguetti18/">
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Iago-Fereguetti18&show_icons=true&theme=github_dark&includ_all_comits=true&cont_private=true"/>
-  <img align="right" height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Fereguetti18&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
+- 🎓 Estudante de Ciência da Computação na PUC MG.
+- 💻 Interessado em desenvolvimento de software, inteligência artificial e ciência de dados.
+- 📚 Comprometido com o aprendizado contínuo e aprimoramento das minhas habilidades técnicas.
+- 📫 Contate-me no email: fereguettiiago@gmail.com.
 
-##
+## 🧑‍💻 Tech Skills
+
+- 🖥️ Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs)](https://skillicons.dev)
+  
+- 📚 Frameworks e Bibliotecas: 
+
+    [![My Skills](https://skillicons.dev/icons?i=spring,bootstrap)](https://skillicons.dev)
+
+- 🛠️ Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,vscode,maven,azure,postman,figma)](https://skillicons.dev)
+
+- 🎲 Banco de Dados:
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+  
+- 🌐 Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/iago-fereguetti-b6bb72280/)
