@@ -30,4 +30,4 @@
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/iago-fereguetti-b6bb72280/)
+- [LinkedIn](www.linkedin.com/in/iago-fereguetti-ribeiro-b6bb72280)
